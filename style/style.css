@@ -1,0 +1,17 @@
+.search-bar {
+    margin: 20px 0;
+}
+
+.container table tbody td, .container th {
+    vertical-align: middle;
+    text-align: center;
+}
+
+svg {
+    height: 125px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
