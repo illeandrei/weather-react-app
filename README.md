@@ -1,7 +1,5 @@
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
 ```
 > git clone git@github.com:illeandrei/weather-react-app.git
 > cd weather-react-app
